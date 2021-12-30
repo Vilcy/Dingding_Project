@@ -1,0 +1,4 @@
+ding:
+  url: https://oapi.dingtalk.com/robot/send
+  token: e8450f20067531c913a83408c5362d6c365ff390368500c3681f9d8daca593e2
+  secret: SECf51aeeeda65b40405634aa750453e4d5afdc7d7f5b67f5fd6c7875882128e33e
